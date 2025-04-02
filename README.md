@@ -1,5 +1,9 @@
 # Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
+## Caminho
+
+É necessário fazer login para ter acesso aos recursos: https://copilot.microsoft.com/
+
 ## Análise de imagens
 ### Input 1
 
