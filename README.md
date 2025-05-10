@@ -2,7 +2,7 @@
   AI-Copilot
 </h1>
 
-Criado para o desafio de projeto do bootcamp decola tech Avanade 2025 (Explorando os Recursos de IA Generativa com Copilot e OpenAI).
+Explorando os Recursos de IA Generativa com Copilot e OpenAI.
 
 ## Caminho
 
